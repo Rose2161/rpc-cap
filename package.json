@@ -27,7 +27,7 @@
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
     "@metamask/eslint-config": "^5.0.0",
-    "@types/node": "^12.0.7",
+    "@types/node": "^15.0.0",
     "@types/uuid": "^3.4.4",
     "@typescript-eslint/eslint-plugin": "^4.15.2",
     "@typescript-eslint/parser": "^4.15.2",
